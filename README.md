@@ -1,15 +1,10 @@
 # Beginners Tasks
 Fall 2023 MRL HSL Beginners Tasks
 
-## Task 1 - Ashkan
-عمه اشکان کارمند جهاد کشاورزی استان قزوین است و با توجه به اینکه دخترش پریزاد از او کوچک تر است، از اشکان خواسته که بر روی لپتاب خود توزیع لینوکس Ubuntu ورژن 22.04 را بدون استفاده از ماشین مجازی بلکه به صورت Boot شده و بدون آنکه فایل های لپتابش بپرد، نصب کند. به اشکان کمک کنید که عمه اش منتظر است
-
-## Task 2 - Parizad
-پریزاد که تلاش اشکان را برای نصب توزیع لینوکسی Ubuntu میبیند تصمیم میگیرد به او کمک کند ولی متاسفانه چیزی از خط فرمان یا Command Line بلد نیست که باعث شود اشکان درست و حسابی لینوکسش را نصب کند. به پریزاد کمک کنید و ۳۰ کامند لینوکس را یاد بگیرید تا بتوانید به او یاد دهید
-
-## Task 3 - Arash
-
-## Task 4 - Aref
-## Task 5 - Karen
-## Task 6
-## Task 7
+* [Task 1](https://github.com/MRL-HSL-Software/Fall2023-MBT1)
+* [Task 2](https://github.com/MRL-HSL-Software/Fall2023-MBT2)
+* [Task 3](https://github.com/MRL-HSL-Software/Fall2023-MBT3)
+* [Task 4](https://github.com/MRL-HSL-Software/Fall2023-MBT4)
+* [Task 5](https://github.com/MRL-HSL-Software/Fall2023-MBT5)
+* [Task 6](https://github.com/MRL-HSL-Software/Fall2023-MBT6)
+* [Task 7](https://github.com/MRL-HSL-Software/Fall2023-MBT7)
