@@ -1,6 +1,6 @@
 # Beginners Tasks
-Fall 2023 MRL HSL Beginners Tasks
-
+### Fall 2023 MRL HSL Beginners Tasks
+<img src="./Dont%20Give%20Up.png" position="right" width="22%" align="left" loading="eager"></img>
 * [Task 1](https://github.com/MRL-HSL-Software/Fall2023-MBT1)
 * [Task 2](https://github.com/MRL-HSL-Software/Fall2023-MBT2)
 * [Task 3](https://github.com/MRL-HSL-Software/Fall2023-MBT3)
